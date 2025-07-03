@@ -1,2 +1,2 @@
 # COVID-Assessment
-Comparison of COVID cases per thousand and deaths per thousand for each US State and Country through December 31, 2020. Used to identify best performance and worst performance, which then modeled relationship between cases and deaths per thousand.
+Project from DTSA5301 Course to evaluate the COVID cases and deaths per thousand in US States and countries. Project served as an introduction to data visualization and tidyverse in R.
